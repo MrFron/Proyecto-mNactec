@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/galaxias"
+    tools:context=".quiztierra">
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="RESULTADO"
+        android:layout_weight="0.3"
+        android:textSize="100dp"
+        android:gravity="center"/>
+    <ImageButton
+        android:background="@color/transparente"
+        android:scaleType="fitCenter"
+        android:src="@drawable/next"
+        android:id="@+id/regresar"
+        android:layout_gravity="center"
+        android:layout_width="1000dp"
+        android:layout_marginBottom="200dp"
+        android:layout_height="500dp"
+        android:textSize="100dp"
+        android:text="Siguiente planeta"/>
+
+
+</LinearLayout>

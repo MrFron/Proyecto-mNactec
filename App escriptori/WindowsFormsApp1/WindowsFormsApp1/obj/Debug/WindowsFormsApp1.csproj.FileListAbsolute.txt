@@ -1,0 +1,67 @@
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Afegirpersonatges.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificar_personatges.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificarpreguntes.resources
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Afegirpersonatges.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificar_personatges.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificarpreguntes.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Afegirpersonatges.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificar_personatges.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificarpreguntes.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\cep.CEPNET0\Desktop\ABP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Afegirpersonatges.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificar_personatges.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Modificarpreguntes.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\polhm\Desktop\DAM2A\App escriptori\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

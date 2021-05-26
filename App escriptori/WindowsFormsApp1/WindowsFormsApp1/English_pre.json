@@ -1,0 +1,106 @@
+﻿[
+  {
+    "nivell": 1,
+    "pregunta": "What year did Neil Armstrong land on the moon?",
+    "opcio": [ "1979", "1959", "1965" ],
+    "resposta": "1969"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "What is the moon?",
+    "opcio": [ "A planet", "A constellation", "Una estrella" ],
+    "resposta": "A satellite"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "How many planets are in the solar system?",
+    "opcio": [ "7", "6", "10" ],
+    "resposta": "8"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "In which galaxy is the solar system?",
+    "opcio": [ "Andromeda", "Great Cloud of Magalhães", "Triangle" ],
+    "resposta": "Milky Way"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "What is considered Pluton?",
+    "opcio": [ "A satellite", "A planet", "Meteorite" ],
+    "resposta": "Small planet"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "How much distance is there between the sun and the earth?",
+    "opcio": [ "154,6 millions KM", "227,9 millions KM", "Three bus stops" ],
+    "resposta": "149,6 millions KM"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "On which planet is the Na'vi race? (Avatar)",
+    "opcio": [ "Pluton", "Kepler", "Ceres" ],
+    "resposta": "Pandora"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "What name did the mission of the journey to the Moon receive?",
+    "opcio": [ "Pioneer E", "Helios A", "SOHO" ],
+    "resposta": "Apolo 11 "
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "On which planet Anakin Skywalker was born?",
+    "opcio": [ "Hoth", "Naboo", "Coruscant" ],
+    "resposta": "Tatooine"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "What did the astronaut feed from the movie 'The Martian'?",
+    "opcio": [ "Animals", "Insects", "Fruit" ],
+    "resposta": "Vegetables"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "What is the first science fiction movie?",
+    "opcio": [ "Trip to Mars", "Trip to space", "Journey to the Center of the Earth" ],
+    "resposta": "Journey to the Moon"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "In which movie Anakin Skywalker is passed to the side of the Sith?",
+    "opcio": [ "Star Wars: The Phantom Menace", "Star Wars: Attack of the clones", "Star Wars: the Jedi return" ],
+    "resposta": "Star Wars: the revenge of the Sith"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "What year was the 2001 movie premiere: an odissea in space?",
+    "opcio": [ "1979", "2000", "1957" ],
+    "resposta": "1968"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "How often does Halley's comet pass?",
+    "opcio": [ "80 años", "63 años", "71 años" ],
+    "resposta": "75 años"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "How much gravity is there on the moon?",
+    "opcio": [ "9,86 meters per second squared", "5,28 meters per second squared", "3,25 meters per second squared" ],
+    "resposta": "1,62 meters per second squared"
+  }
+]

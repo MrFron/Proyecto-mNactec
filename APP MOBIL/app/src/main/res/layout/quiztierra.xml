@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/galaxias"
+    tools:context=".quiztierra">
+
+    <TextView
+        android:layout_width="2000dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:text="A continuación, tres preguntas... Serás capaz de acertarlas todas?"
+        android:textSize="100dp">
+
+    </TextView>
+
+    <ImageButton
+        android:background="@color/transparente"
+        android:scaleType="fitCenter"
+        android:src="@drawable/next"
+        android:id="@+id/iniciar"
+        android:layout_marginTop="400dp"
+        android:textSize="100dp"
+        android:layout_gravity="center"
+        android:layout_width="1000dp"
+        android:layout_height="400dp"
+        android:text="Iniciar"
+        />
+
+</LinearLayout>

@@ -1,0 +1,106 @@
+﻿[
+  {
+    "nivell": 1,
+    "pregunta": "Que año aterrizo el astronauta Neil Armstrong a la Luna?",
+    "opcio": [ "1979", "1959", "1965" ],
+    "resposta": "1969"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "Qué es la Luna?",
+    "opcio": [ "Una planeta", "Una constelación", "Una estrella"],
+    "resposta":  "Un satélite"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "Cuantos planetas hay en el sistema Solar?",
+    "opcio": [ "7","6", "10" ],
+    "resposta": "8"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "En que galaxia se encuentra el sistema Solar?",
+    "opcio": [ "Andromeda", "Gran Nube de Magalhães", "Triangulo" ],
+    "resposta": "Via Lactea"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "Que se considera Plutón?",
+    "opcio": [ "Satélite", "Planeta", "Meteorito" ],
+    "resposta": "Planeta pequeño"
+  },
+
+ {
+    "nivell": 2,
+    "pregunta": "Cuanta distancia hay entre el Sol i la Tierra?",
+  "opcio": [ "154,6 millones de KM", "227,9 millones de KM", "A tres paradas de bus" ],
+  "resposta": "149,6 millones de KM"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "En que planeta se encuentra la raza Na'vi?(Avatar)",
+    "opcio": [ "Plutón", "Kepler", "Ceres" ],
+    "resposta": "Pandora"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "Que nombre recibió la missión del viage a la Luna?",
+    "opcio": ["Pioneer E", "Helios A", "SOHO" ],
+    "resposta": "Apolo 11 "
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "En que planeta nacio Anakin Skywalker?",
+    "opcio": [ "Hoth", "Naboo","Coruscant" ],
+    "resposta": "Tatooine"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "De que se alimento el astronauta de la pelicula 'The Martian'?",
+    "opcio": [ "Animales", "Insectos", "Fruta"],
+    "resposta": "Verduras"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Cual es la primera pelicula de ciencia ficción?",
+    "opcio": ["Viaje a Marte", "Viaje al espacio", "Viaje al centro de la Tierra" ],
+    "resposta": "Viaje a la Luna"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "En que pelicula Anakin Skywalker se pasa al bando de los Sith?",
+    "opcio": [ "Star Wars: la amenaza fantasma", "Star Wars: el ataque de los clones", "Star Wars: el retorno Jedi" ],
+    "resposta": "Star Wars: la venganza de los Sith"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Que año se estreno la pelicula 2001: una odissea en el espacio?",
+    "opcio": [ "1979", "2000", "1957"],
+    "resposta": "1968"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Cada cuantos años pasa el cometa Halley?",
+    "opcio": [ "80 años", "63 años","71 años" ],
+    "resposta": "75 años"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Cuanta gravedad hay en la Luna?",
+    "opcio": [ "9,86 metros por segundo al cuadrado", "5,28 metros por segundo al cuadrado", "3,25 metros por segundo al cuadrado" ],
+    "resposta": "1,62 metros por segundo al cuadrado"
+  }
+]

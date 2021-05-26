@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appmnactec">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true">
+        <activity android:name=".Preguntes" android:screenOrientation="landscape"></activity>
+        <activity android:name=".Pregunta" android:screenOrientation="landscape"></activity>
+        <activity android:name=".Json" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MenuJuego" android:screenOrientation="landscape"></activity>
+        <activity android:name=".quizjupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta1jupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta2jupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta3jupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".scorejupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MenuJuegojupiter" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta2tierra" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta3tierra" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta1marte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta2marte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta3marte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".scoremarte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MenuJuegomarte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".score" android:screenOrientation="landscape"></activity>
+        <activity android:name=".quizmarte" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MenuJuego2" android:screenOrientation="landscape"></activity>
+        <activity android:name=".quiztierra" android:screenOrientation="landscape"></activity>
+        <activity android:name=".pregunta1tierra" android:screenOrientation="landscape"></activity>
+        <activity android:name=".GameActivity" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MenuAgujero" android:screenOrientation="landscape"></activity>
+        <activity android:name=".MainAhorcado" android:screenOrientation="landscape"></activity>
+        <activity android:name=".JuegoPlanetas" android:screenOrientation="landscape"></activity>
+        <activity android:name=".Pantallafinal" android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".MainActivity" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+    </application>
+
+</manifest>

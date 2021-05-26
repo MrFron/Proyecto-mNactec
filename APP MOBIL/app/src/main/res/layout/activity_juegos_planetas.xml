@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".JuegoPlanetas"
+    android:background="@drawable/galaxias">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+
+
+        <TextView
+            android:id="@+id/contador"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:shadowColor="#00BEE0E4"
+            android:text=""
+            android:textSize="25dp"
+            android:textColor="#B0DAFF"/>
+
+        <TextView
+            android:id="@+id/Puntuacio"
+            android:layout_marginRight="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:shadowColor="#00BEE0E4"
+            android:text="Puntuació: "
+            android:textSize="65dp"
+            android:gravity="right"
+            android:textColor="#B0DAFF"
+            android:layout_margin="50dp"
+            android:paddingRight="50dp"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:shadowColor="#00BEE0E4"
+        android:text="Escriu el nom del planeta:"
+        android:textSize="75dp"
+        android:textColor="#B0DAFF"/>
+
+    <ImageView
+        android:layout_marginTop="50dp"
+        android:id="@+id/img"
+        android:layout_width="550dp"
+        android:layout_height="550dp"
+        app:srcCompat="@drawable/img1"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/missatge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:scrollbarSize="20dp"
+        android:layout_marginTop="40dp"
+        android:text=""
+        android:visibility="invisible"
+        android:textSize="50dp"/>
+
+    <EditText
+        android:id="@+id/resposta"
+        android:layout_width="841dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="75dp"
+        android:layout_marginBottom="25dp"
+        android:background="@color/colorTextoNombre"
+        android:ems="10"
+        android:hint="Escriu el nom..."
+        android:inputType="textPersonName"
+        android:shadowColor="#5B1BC8D8"
+        android:textColor="#FFFFFF"
+        android:textSize="65dp" />
+
+    <ImageButton
+        android:id="@+id/buttonOK"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/transparente"
+        android:scaleType="fitCenter"
+        android:text="OK"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        app:srcCompat="@drawable/proximo" />
+
+</LinearLayout>

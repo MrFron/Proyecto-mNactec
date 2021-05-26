@@ -1,0 +1,112 @@
+﻿  [
+  {
+    "nivell": 1,
+    "pregunta": "Quin any va aterra el astronauta Neil Armstrong a la Lluna?",
+    "opcio": ["1979", "1959", "1965" ],
+    "resposta":  "1969"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "Qué es la Lluna?",
+    "opcio": [ "Una planeta", "Una constelació", "Una estrella" ],
+    "resposta": "Un satélit"
+  },
+
+  {
+    "nivell": 1,
+    "pregunta": "Quants planetes hi han al sistema Solar?",
+    "opcio": [ "7", "6", "10" ],
+    "resposta": "8"
+  },
+
+    {
+      "nivell": 1,
+      "pregunta": "A quina galaxia es troba el sistema Solar",
+      "opcio": [ "Andromeda", "Gran Núvol de Magalhães", "Triangle" ],
+      "resposta": "Via Lactea"
+    },
+
+  {
+    "nivell": 1,
+    "pregunta": "Que es considera Plutó?",
+    "opcio": [ "Satelit", "Planeta", "Planeta petit", "Meteorit" ],
+    "resposta":  "Planeta petit"
+  },
+
+
+ 
+
+  {
+    "nivell": 2,
+    "pregunta": "Quanta distancia hi ha entre el Sol i la Terra?",
+    "opcio": [ "154,6 milions de KM", "227,9 milions de KM", "A tres parades de bus" ],
+    "resposta":  "149,6 milions de KM"
+  },
+
+    {
+      "nivell": 2,
+      "pregunta": "En quin planeta es trobava la raça Na'vi?(Avatar)",
+      "opcio": [ "Plutó", "Kepler", "Ceres" ],
+      "resposta": "Pandora"
+    },
+
+  {
+    "nivell": 2,
+    "pregunta": "Quin nom va rebre la missió del viatge a la Lluna?",
+    "opcio": [ "Pioneer E", "Helios A", "SOHO" ],
+    "resposta": "Apolo 11"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "En quin planeta va neixer Anakin Skywalker?",
+    "opcio": [ "Hoth", "Naboo", "Coruscant" ],
+    "resposta": "Tatooine"
+  },
+
+  {
+    "nivell": 2,
+    "pregunta": "De que es va alimentar el astronauta de la pel·licula 'The Martian'?",
+    "opcio": [ "Animals", "Insectes", "Fruita" ],
+    "resposta":  "Verdures"
+  },
+
+
+ 
+
+  {
+    "nivell": 3,
+    "pregunta": "Quina es la primera pel·licula de ciencia ficció?",
+    "opcio": [ "Viatge a Mart", "Viatge a l'espai", "Viatge al centre de la Terra" ],
+    "resposta": "Viatge a la Lluna"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "En quina pel·licula Anakin Skywalker es pasa al bàndol del Sith?",
+    "opcio": [ "Star Wars: la amenaça fantasma",  "Star Wars: el atac dels clons", "Star Wars: el retorn del Jedi" ],
+    "resposta": "Star Wars: la venjança dels Sith"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Quin any es va estrenar la pel·licula 2001: una odissea a l'espai?",
+    "opcio": [ "1979", "2000", "1957"],
+    "resposta": "1968"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Cada quants anys passa el cometa Halley?",
+    "opcio": [ "80 anys", "63 anys", "71 anys" ],
+    "resposta":  "75 anys"
+  },
+
+  {
+    "nivell": 3,
+    "pregunta": "Quanta gravetat hi ha a la Lluna?",
+    "opcio": [ "9,86 metres per segon al cuadrat",  "5,28 metres per segon al cuadrat", "3,25 metres per segon al cuadrat" ],
+    "resposta": "1,62 metres per segon al cuadrat"
+  }
+]

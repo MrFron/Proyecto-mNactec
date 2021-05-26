@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagenfondo"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1100dp"
+        android:layout_marginLeft="30dp">
+
+        <ImageView
+            android:id="@+id/terra"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="30dp"
+            android:layout_marginBottom="15dp"
+            app:srcCompat="@drawable/terratachado" />
+
+        <ImageView
+            android:id="@+id/mart"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_marginLeft="125dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginBottom="15dp"
+            app:srcCompat="@drawable/martetachado" />
+
+        <ImageView
+            android:id="@+id/jupiter"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="150dp"
+            app:srcCompat="@drawable/jupiter" />
+
+        <ImageView
+            android:id="@+id/agujero"
+            android:layout_marginTop="300dp"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_marginLeft="200dp"
+            app:srcCompat="@drawable/agujeronegrobloqueado" />
+
+        <ImageView
+            android:id="@+id/satelit"
+            android:layout_width="400dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginBottom="75dp"
+            android:layout_height="400dp"
+            android:layout_gravity="bottom"
+            app:srcCompat="@drawable/satelitbloquejat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/imageAtras"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:scaleType="fitCenter"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center"
+            android:background="@color/transparente"
+            app:srcCompat="@drawable/atras" />
+
+        <ImageButton
+            android:id="@+id/imagePlay"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2000dp"
+            android:background="@color/transparente"
+            app:srcCompat="@drawable/play" />
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

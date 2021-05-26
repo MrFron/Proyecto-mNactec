@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context=".quiztierra">
+
+    <TextView
+        android:id="@+id/p2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="70dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/a2"
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Opcion a"/>
+    <Button
+        android:id="@+id/b2"
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Opcion b"/>
+    <Button
+        android:id="@+id/c2"
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Opcion c"/>
+    <Button
+        android:id="@+id/d2"
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Opcion d"/>
+
+    <ImageButton
+        android:layout_marginTop="50dp"
+        android:id="@+id/sig2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center"
+        android:background="@color/transparente"
+        android:text="Siguiente"
+        app:srcCompat="@drawable/proximo" />
+
+</LinearLayout>
